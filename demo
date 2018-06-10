@@ -1,3 +1,5 @@
 wget -N --no-check-certificate https://www.moerats.com/usr/down/55r.zip && unzip 55r.zip && cd 55R* && bash install.sh
 
 wget "https://github.com/erguotou520/electron-ssr/releases/download/v0.2.3/electron-ssr-0.2.3.tar.gz"
+
+git clone https://github.com/ssrbackup/shadowsocksr
