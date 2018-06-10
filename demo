@@ -1,13 +1,4 @@
-wget -N --no-check-certificate https://www.moerats.com/usr/down/55r.zip && unzip 55r.zip && cd 55R* && bash install.sh
-https://github.com/JinnLynn/genpac
-wget "https://github.com/erguotou520/electron-ssr/releases/download/v0.2.3/electron-ssr-0.2.3.x86_64.rpm"
-
-git clone https://github.com/ssrbackup/shadowsocksr
-
-https://github.com/showzeng/shadowsocksr
-
-由于这篇教程的读者都用上Linux了，我就不手把手教学了，看不懂的部分就自行Google吧，用Linux如果不自己折腾那么还有什么意义2333333。
-以下命令适用于Debian、Ubuntu、Deepin等系统，如使用其他Linux发行版，请在看懂全部命令的用途之后用适合自己系统的命令执行。
+https://github.com/yelanxin/netease-cloud-music-fedora-27 --安装网易云
 
 方法一：
 
